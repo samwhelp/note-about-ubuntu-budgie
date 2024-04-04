@@ -14,7 +14,7 @@ has_children: false
 | [Ubuntu Budgie](https://ubuntubudgie.org/) |
 | Ubuntu cdimage / [ubuntu-budgie](https://cdimage.ubuntu.com/ubuntu-budgie/) |
 | GitHub / [Ubuntu Budgie](https://github.com/UbuntuBudgie) |
-| GitHub / [ Buddies of Budgie](https://github.com/BuddiesOfBudgie) |
+| GitHub / [Buddies of Budgie](https://github.com/BuddiesOfBudgie) |
 | [Budgie Desktop Environment](https://buddiesofbudgie.org/) |
 
 
