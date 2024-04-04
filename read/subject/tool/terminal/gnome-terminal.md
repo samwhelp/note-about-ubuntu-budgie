@@ -41,7 +41,7 @@ sudo apt-get install gnome-terminal
 ```
 
 
-## dconf default value config
+## Config File Path
 
 | Config File Path |
 | ---------------- |
