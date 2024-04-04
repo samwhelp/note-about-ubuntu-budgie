@@ -1,6 +1,6 @@
 ---
 title: Gnome-Terminal
-nav_order: 3048
+nav_order: 3044
 has_children: false
 parent: Terminal
 grand_parent: 工具
