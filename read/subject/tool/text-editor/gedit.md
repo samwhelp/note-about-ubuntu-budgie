@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [gedit](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/tool/gedit) |
+| [gedit](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/tool-config/part/gedit) |
 
 
 ## Ubuntu Package Search
