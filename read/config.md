@@ -12,7 +12,8 @@ has_children: true
 
 | 微調腳本 |
 | --- |
-|  |
+| [budgie-keybind-main](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/budgie-config/part/budgie-keybind-main) |
+| [budgie-keybind-custom](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/budgie-config/part/budgie-keybind-custom) |
 
 
 ## 按鍵綁定
