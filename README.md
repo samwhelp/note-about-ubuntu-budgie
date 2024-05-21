@@ -55,7 +55,7 @@
 
 ## 佈景主題
 
-| [佈景主題](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/theme.html) |
+| 佈景主題 |
 | -------- |
 | [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/grub.html) |
 
