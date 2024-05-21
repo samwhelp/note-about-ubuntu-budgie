@@ -56,6 +56,8 @@
 
 | [工具](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/tool.html) | [微調腳本](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/tool-config) | 分類 |
 | --- | --- | --- |
+| [nemo](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/tool/file-manager/nemo.html) | [微調腳本](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/tool-config/part/nemo) | [File Manager](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/tool/file-manager.html) |
+| [gedit](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/tool/text-editor/gedit.html) | [微調腳本](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/tool-config/part/gedit) | [Text Editor](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/tool/text-editor.html) |
 | [tilix](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/tool/terminal/tilix.html) | [微調腳本](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/tool-config/part/tilix) | [Terminal](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/tool/terminal.html) |
 | [gnome-terminal](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/tool/terminal/gnome-terminal.html) | [微調腳本](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/tool-config/part/gnome-terminal) | [Terminal](https://samwhelp.github.io/note-about-ubuntu-budgie/read/subject/tool/terminal.html) |
 
