@@ -45,5 +45,4 @@ sudo apt-get install nemo
 
 | Config File Path|
 | --- |
-|  |
-
+| [/usr/share/glib-2.0/schemas/50_nemo.gschema.override](https://github.com/samwhelp/ubuntu-budgie-adjustment/blob/main/prototype/main/tool-config/part/nemo/asset/overlay/usr/share/glib-2.0/schemas/50_nemo.gschema.override) |
