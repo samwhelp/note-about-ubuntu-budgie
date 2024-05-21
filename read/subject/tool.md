@@ -20,6 +20,7 @@ has_children: true
 
 | [工具微調腳本](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/tool-config) |
 | --- |
+| [tilix](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/tool-config/part/tilix) |
 | [gnome-terminal](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main/tool-config/part/gnome-terminal) |
 
 
