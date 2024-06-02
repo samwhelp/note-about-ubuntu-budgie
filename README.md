@@ -77,8 +77,8 @@
 
 | [如何](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto.html) |
 | ------- |
-| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-mouse-button-modifier.html) |
-| [停用按鍵綁定「Super_L」開啟「Budgie Menu」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/disable-keybind-open-budgie-menu.html) |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-mouse-button-modifier.html) |
+| [停用按鍵綁定「Super_L」開啟「Main Menu」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/disable-keybind-open-main-menu.html) |
 | [設定 Application Appearance](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-application-appearance.html) |
 
 

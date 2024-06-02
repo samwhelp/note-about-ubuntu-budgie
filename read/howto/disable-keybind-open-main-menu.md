@@ -1,17 +1,17 @@
 ---
-title: 停用按鍵綁定「Super_L」開啟「Budgie Menu」
+title: 停用按鍵綁定「Super_L」開啟「Main Menu」
 nav_order: 7022
 has_children: false
 parent: 如何
 ---
 
 
-# 停用按鍵綁定「Super_L」開啟「Budgie Menu」
+# 停用按鍵綁定「Super_L」開啟「Main Menu」
 
 
 ## 設定指令
 
-執行下面指令，停用按鍵綁定「Super_L」開啟「Budgie Menu」
+執行下面指令，停用按鍵綁定「Super_L」開啟「Main Menu」
 
 ``` sh
 gsettings set org.gnome.mutter overlay-key ''
@@ -56,7 +56,7 @@ gsettings get org.gnome.mutter overlay-key
 
 | 相關議題 |
 | ------- |
-| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-mouse-button-modifier.html) |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-mouse-button-modifier.html) |
 
 
 ## gschema

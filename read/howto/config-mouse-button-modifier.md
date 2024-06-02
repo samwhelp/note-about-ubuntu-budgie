@@ -1,12 +1,12 @@
 ---
-title: 設定 Mouse Button Modifier
+title: 設定「Mouse Button Modifier」
 nav_order: 7021
 has_children: false
 parent: 如何
 ---
 
 
-# 設定 Mouse Button Modifier
+# 設定「Mouse Button Modifier」
 
 
 ## 相關設定指令
@@ -23,7 +23,7 @@ gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier "'<Super>'"
 gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true
 ```
 
-執行上面兩個指令後，就可以[在視窗操作下面兩個動作](https://samwhelp.github.io/note-about-ubuntu-budgie/read/config/mousebind.html#視窗內容區塊)，
+執行上面兩個指令後，就可以[在視窗操作下面兩個動作](https://samwhelp.github.io/note-about-ultramarine-budgie/read/config/mousebind.html#視窗內容區塊)，
 
 | 滑鼠按鍵組合                |  功能                   |
 | --------------------------- | ----------------------- |
@@ -39,7 +39,7 @@ gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true
 
 預設按下「Win鍵」會觸發「顯示主要功能選單」，
 
-為了避免無謂的干擾，我會執行下面指令來[停用這個功能](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/disable-keybind-open-budgie-menu.html)。
+為了避免無謂的干擾，我會執行下面指令來[停用這個功能](https://samwhelp.github.io/note-about-ultramarine-budgie/read/howto/disable-keybind-open-main-menu.html)。
 
 
 ``` sh
@@ -51,8 +51,8 @@ gsettings set org.gnome.mutter overlay-key ''
 
 | 相關議題 |
 | ------- |
-| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-ubuntu-budgie/read/config/mousebind.html#視窗內容區塊)
-| [停用按鍵綁定「Super_L」開啟「Budgie Menu」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/disable-keybind-open-budgie-menu.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-budgie/read/config/mousebind.html#視窗內容區塊)
+| [停用按鍵綁定「Super_L」開啟「Main Menu」](https://samwhelp.github.io/note-about-ultramarine-budgie/read/howto/disable-keybind-open-main-menu.html) |
 
 
 ## 相關應用
