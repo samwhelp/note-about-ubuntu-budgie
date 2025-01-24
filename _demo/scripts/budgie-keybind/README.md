@@ -25,7 +25,14 @@ bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budg
 > or run
 
 ``` sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-keybind/budgie-keybind.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-keybind/budgie-keybind.sh -O -)"
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-keybind/budgie-keybind.sh -O - )
+```
+
+
+> or run
+
+``` sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-keybind/budgie-keybind.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-budgie/refs/heads/gh-pages/_demo/scripts/budgie-keybind/budgie-keybind.sh -O - )"
 ```
 
 
