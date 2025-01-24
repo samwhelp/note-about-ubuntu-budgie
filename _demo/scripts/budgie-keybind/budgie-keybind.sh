@@ -58,6 +58,15 @@ mod_budgie_config_for_keybind_main () {
 
 
 	##
+	## ## Launcher
+	##
+
+	gsettings set org.gnome.desktop.wm.keybindings panel-main-menu "['<Alt>F1']"
+
+	gsettings set org.gnome.desktop.wm.keybindings panel-run-dialog "['<Alt>F2']"
+
+
+	##
 	## ## Window
 	##
 
