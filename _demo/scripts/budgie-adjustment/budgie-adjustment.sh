@@ -184,13 +184,13 @@ mod_budgie_config_for_keybind_custom () {
 
 	## ### Terminal
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/name "'Terminal'"
-	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/command "'tilix'"
+	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/command "'xfce4-terminal'"
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/binding "'<Alt>Return'"
 
 
 	## ### Terminal-1
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/name "'Terminal-1'"
-	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/command "'tilix'"
+	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/command "'xfce4-terminal'"
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/binding "'<Shift><Alt>a'"
 
 
