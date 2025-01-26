@@ -32,7 +32,7 @@ has_children: true
 
 ## 鍵盤按鍵綁定
 
-| 鍵盤按鍵綁定 |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-keybind.html) |
 | ----------- |
 | [設定「主要」的「按鍵綁定」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-keybind/config-keybind-main.html) |
 | [設定「自訂」的「按鍵綁定」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-keybind/config-keybind-custom.html) |
