@@ -13,6 +13,8 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [概覽](#概覽)
+* [如何](#如何)
 * [按鍵綁定](#按鍵綁定)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
@@ -28,6 +30,31 @@
 | 微調腳本 |
 | -------- |
 | [Ubuntu Budgie 24.04](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
+| [簡易微調](https://github.com/samwhelp/note-about-ubuntu-budgie/tree/gh-pages/_demo/scripts/budgie-adjustment) |
+
+
+
+
+## 概覽
+
+| [概覽](https://samwhelp.github.io/note-about-ubuntu-budgie/read/guide.html) |
+| ----------------- |
+| [如何微調](https://samwhelp.github.io/note-about-ubuntu-budgie/read/guide/customize.html) |
+| [工作流程](https://samwhelp.github.io/note-about-ubuntu-budgie/read/guide/workflow.html) |
+
+
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto.html) |
+| ------- |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-mouse-button-modifier.html) |
+| [停用按鍵綁定「Super_L」開啟「Menu」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/disable-keybind-open-menu.html) |
+| [設定「主要」的「按鍵綁定」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-keybind/config-keybind-main.html) |
+| [設定「自訂」的「按鍵綁定」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-keybind/config-keybind-custom.html) |
+| [設定「Application Appearance」](https://samwhelp.github.io/note-about-ubuntu-budgie/read/howto/config-keybind/config-application-appearance.html) |
 
 
 

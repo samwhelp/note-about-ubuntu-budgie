@@ -1,12 +1,12 @@
 ---
-title: 設定 Application Appearance
+title: 設定「Application Appearance」
 nav_order: 7040
 has_children: false
 parent: 如何
 ---
 
 
-# 設定 Application Appearance
+# 設定「Application Appearance」
 
 
 ## 執行指令
