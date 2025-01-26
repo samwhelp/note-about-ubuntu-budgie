@@ -29,7 +29,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Ubuntu Budgie 24.04](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main) |
+| [Ubuntu Budgie Config](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
 | [簡易微調](https://github.com/samwhelp/note-about-ubuntu-budgie/tree/gh-pages/_demo/scripts/budgie-adjustment) |
 
