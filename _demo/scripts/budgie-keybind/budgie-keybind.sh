@@ -58,7 +58,7 @@ mod_budgie_config_for_keybind_main () {
 
 
 	##
-	## ## Launcher
+	## ## Application / Launcher
 	##
 
 	gsettings set org.gnome.desktop.wm.keybindings panel-main-menu "['<Alt>F1']"
