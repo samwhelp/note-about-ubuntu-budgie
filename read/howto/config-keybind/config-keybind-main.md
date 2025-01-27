@@ -194,8 +194,8 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-right "['<Alt
 
 | 方位        | 按鍵           | 功能                    |
 | ----------- | -------------- | ----------------------- |
-| 左 (Left)   | `Win + a`      | `Window / Previous`  |
-| 右 (Right)  | `Win + s`      | `Window / Next`      |
+| 左 (Left)   | `Win + a`      | `Window / Previous`     |
+| 右 (Right)  | `Win + s`      | `Window / Next`         |
 | 左 (Left)   | `Alt + a`      | `Workspace / Previous`  |
 | 右 (Right)  | `Alt + s`      | `Workspace / Next`      |
 
