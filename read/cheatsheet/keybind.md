@@ -35,7 +35,7 @@ parent: 一覽表
 
 | 按鍵組合           | 功能    | 執行指令                         |
 | ------------------ | ----- | -------------------------------- |
-| `Alt + Shift + z`  | 關機  | `gnome-session-quit --power-off` |
+| `Alt + Shift + z`  | 關機  | `budgie-session-quit --power-off` |
 | `Alt + Shift + x`  | 登出  | `gnome-session-quit --logout` |
 
 
