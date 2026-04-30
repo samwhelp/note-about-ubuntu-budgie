@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Ubuntu Budgie Adjustment](https://samwhelp.github.io/ubuntu-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-budgie-adjustment) |
 | [Ubuntu Budgie 探索筆記](https://samwhelp.github.io/note-about-ubuntu-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-budgie) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 
 
 
@@ -32,6 +33,12 @@
 | [Ubuntu Budgie Config](https://github.com/samwhelp/ubuntu-budgie-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
 | [簡易微調](https://github.com/samwhelp/note-about-ubuntu-budgie/tree/gh-pages/_demo/scripts/budgie-adjustment) |
+
+
+| Style Management |
+| ---------------- |
+| [make-budgie-style](https://github.com/samwhelp/make-budgie-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
 
 
 
@@ -120,3 +127,10 @@
 | [Debian Budgie 探索筆記](https://samwhelp.github.io/note-about-debian-budgie/) | [GitHub](https://github.com/samwhelp/note-about-debian-budgie) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
